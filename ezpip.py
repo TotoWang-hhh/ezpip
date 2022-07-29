@@ -230,8 +230,8 @@ if is_admin():
 
 tk.Button(win,text='2022 By 人工智障',bg='lightgrey',bd=0,command=lambda:view("http://rgzz.great-site.net/?i=1")).pack(fill=tk.X)
 tk.Button(win,text='问题反馈',bg='lightgrey',bd=0,command=lambda:view("https://support.qq.com/products/384388?")).pack(fill=tk.X)
-tk.Button(win,text='帮助',bg='lightgrey',bd=0,command=lambda:view("http://rgzz.great-site.net/soft/ezpip/WebHelp/")).pack(fill=tk.X)
-tk.Button(win,text='开源许可证',bg='lightgrey',bd=0,command=lambda:view("https://www.mozilla.org/en-US/MPL/1.1/")).pack(fill=tk.X)
+tk.Button(win,text='帮助',bg='lightgrey',bd=0,command=lambda:view("https://totowang-hhh.github.io/ezpip/")).pack(fill=tk.X)
+tk.Button(win,text='开源许可证',bg='lightgrey',bd=0,command=lambda:view("https://www.mozilla.org/en-US/MPL/2.0/")).pack(fill=tk.X)
 
 
 #调试选项

@@ -137,3 +137,21 @@ Easy PyPI是我最高产的软件之一，您需要经常查看[我的博客](ht
 ### 显示调试信息
 
 单击后您可以查看更详（多）细（余）的输出信息。
+
+# For User From Other Country (Region)
+
+If you don't speak Chinese, you should download and use `ezpipxxxen.py`. I translated everything you can see into English in that version. 
+
+personally, I think the whole doc is useless. You don't have to read other parts of this doc. Just use the software. Use the translation function in your browswer if you have plent of time to waste. I'll translate everything useful and write them in this topic. 
+
+If you can help me to translate this software into other language, you can fork this repository and do that by yourself. When you done, you can contact me with E-Mail or QQ. (I'll upload your version after you agreed)
+
+I didn't translate any code comment into English because I can't, So if you have any problem, feel free to disturb me. :)
+
+# 联系我
+
+如果您遇到任何问题，请联系我
+
+E-Mail: tt1224@hotmail.com
+
+QQ: 1349933474（人）

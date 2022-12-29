@@ -12,14 +12,10 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 # 调试信息 / Output Info
+如果可能：展开调试选项，点击`显示调试信息`，然后重现问题
+If Possible: Show the debug options, click `Show Debug Info`, then reproduce the bug
 
-## 如果您正在运行Python源码且显示了控制台 / Running With Console ?
-请提供控制台截图
-Provide a screenshot of the console.
-
-## 如果您看不到控制台 / Running Without Console ?
-转到`用户友好输出`，滚动到底部，然后提供截图
-Switch to `User-friendly Output`, scroll to the bottom, then provide a screenshot of it.
+无论如何，请提供控制台截图 / Provide a screenshot of the console, ANYWAY.
 
 # 预料的正常反应（可选） / Expected behavior (Optional)
 简要清晰地描述您希望此处本应该如何
